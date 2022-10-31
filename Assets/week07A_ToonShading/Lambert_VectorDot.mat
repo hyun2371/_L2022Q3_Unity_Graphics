@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Lambert_VectorDot
-  m_Shader: {fileID: 4800000, guid: 3f38f76d5408c56428445ab657cd5fcd, type: 3}
+  m_Shader: {fileID: 4800000, guid: 35e4df3c7a52f4b40a978da47c66e645, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
