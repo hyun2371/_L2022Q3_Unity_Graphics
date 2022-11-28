@@ -3,7 +3,8 @@ guid: f18fa72269c6b984bbcfa8c4e26666bc
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - BlendTexture: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
